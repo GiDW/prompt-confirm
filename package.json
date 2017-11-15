@@ -1,0 +1,20 @@
+{
+  "name": "@gidw/prompt-confirm",
+  "version": "0.0.1",
+  "description": "Prompts a yes/no question.",
+  "author": "Gilles De Waele",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "4.11.0"
+  },
+  "repository": "github:GiDW/prompt-confirm.git",
+  "bugs": {
+    "url": "https://github.com/GiDW/prompt-confirm/issues",
+    "email": "de.waele.gilles@gmail.com"
+  },
+  "scripts": {
+    "lint": "eslint index.js"
+  }
+}
