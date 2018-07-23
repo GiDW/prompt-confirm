@@ -14,7 +14,7 @@
   "types": "index.d.ts",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "4.11.0"
+    "standard": "11.0.1"
   },
   "repository": "github:GiDW/prompt-confirm.git",
   "bugs": {
@@ -22,6 +22,6 @@
     "email": "de.waele.gilles@gmail.com"
   },
   "scripts": {
-    "lint": "eslint index.js"
+    "lint": "standard index.js"
   }
 }
